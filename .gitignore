@@ -1,1 +1,5 @@
-node_modules\n.DS_Store\ndist\nbuild
+node_modules
+.DS_Store
+dist
+build
+coverage
